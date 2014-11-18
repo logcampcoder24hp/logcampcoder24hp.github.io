@@ -69,6 +69,10 @@ header {
   color: #ffffff;
 }
 
+header h1 {
+    color: #ffffff;
+}
+
 #about {
   background-color: none;
 } 
